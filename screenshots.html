@@ -100,6 +100,10 @@
       cursor: zoom-in;
     }
 
+    figure.mobile img {
+      max-width: 280px;
+    }
+
     figcaption {
       margin-top: 0.8rem;
     }
@@ -304,7 +308,7 @@
 
     <h3 class="section-heading">On mobile</h3>
 
-    <figure data-full="screenshots/mobile-schedule.png" data-caption="Works great on mobile — The full schedule is usable on a phone, so attendees can check it on the go.">
+    <figure class="mobile" data-full="screenshots/mobile-schedule.png" data-caption="Works great on mobile — The full schedule is usable on a phone, so attendees can check it on the go.">
       <img src="screenshots/mobile-schedule.png" loading="lazy" alt="The scheduling grid rendered on a mobile phone screen" />
       <figcaption>
         <span class="step-title">12. Works great on mobile</span>
@@ -312,7 +316,7 @@
       </figcaption>
     </figure>
 
-    <figure data-full="screenshots/mobile-session-details.png" data-caption="Closed-session notices — Attendees are warned about late-arrival rules before they RSVP.">
+    <figure class="mobile" data-full="screenshots/mobile-session-details.png" data-caption="Closed-session notices — Attendees are warned about late-arrival rules before they RSVP.">
       <img src="screenshots/mobile-session-details.png" loading="lazy" alt="Mobile session detail popup with a closed-session warning about late arrivals" />
       <figcaption>
         <span class="step-title">13. Closed-session notices</span>
