@@ -2,7 +2,7 @@
 
 This repo hosts the static marketing site for SchellingBoard
 (`index.html`, `screenshots.html`, `screenshots/`). The app itself lives in
-[LWCW-Europe/schelling-board](https://github.com/LWCW-Europe/schelling-board).
+[LWCW-Europe/schellingboard](https://github.com/LWCW-Europe/schellingboard).
 
 ## Taking screenshots
 
