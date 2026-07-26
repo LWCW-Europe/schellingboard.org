@@ -1,5 +1,8 @@
-# SchellingBoard.org
+# schellingboard.org
 
-Website for SchellingBoard.
+Generated — do not edit this repository.
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for how to update screenshots.
+The site is built from `www/` and `docs/screenshots/` in
+[LWCW-Europe/schellingboard](https://github.com/LWCW-Europe/schellingboard) and
+pushed here on every change to `main`. Edits made here are overwritten by the
+next deploy.
